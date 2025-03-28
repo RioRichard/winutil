@@ -69,7 +69,6 @@
         "content": "Angry IP Scanner",
         "description": "Angry IP Scanner is an open-source and cross-platform network scanner. It is used to scan IP addresses and ports, providing information about network connectivity.",
         "link": "https://angryip.org/",
-        "winget": "angryziber.AngryIPScanner"
     },
     "anki": {
         "category": "Document",
